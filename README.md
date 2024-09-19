@@ -11,15 +11,16 @@
  - Библиотека стилей React-bootstrap
 
 ## Использование
-$ npm i 
-npm run dev
+ - npm i 
+ - npm run dev
+ - Добавить в свойства браузера "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=%LOCALAPPDATA%\Google\chromeTemp
 
 
 ## To do
 - [x] Таблица со сделками:  название, бюджет и id (не более 3х карточек);
 - [x] Карточку (id, дата в формате DD.MM.YYYY, статус ближайщей задачи)
 - [x] Пагинация
-- [ ] Получить запрос не более трех карточек в секунду
+- [ ] Запросы не более трех карточек в секунду
 
 ## Источники
 https://amo.sh/K/PWBHEP/PV1CYV 
